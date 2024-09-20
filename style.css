@@ -1,0 +1,64 @@
+body {
+    font-family: 'Georgia', serif; 
+    background-image: url(../img/bandeiras-de-portugal-e-do-brasil-no-conceito-de-relacionamento-politico-de-superficie-rachada_764664-31025.avif);
+    background-size: cover; 
+    color: #333; 
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(19, 170, 19); 
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+}
+
+.logo img {
+    max-width: 150px; 
+}
+
+main {
+    padding: 20px;
+    text-align: center; 
+}
+
+.NCash img {
+    max-width: 100px; 
+    height: auto; 
+}
+
+h2 {
+    font-size: 1.0em; 
+    margin: 10px 0; 
+}
+
+h3 {
+    font-size: 1.0em; 
+    line-height: 1.6; 
+    margin: 10px 0; 
+}
+
+h4 {
+    font-size: 1.2em; 
+    margin: 20px 0; 
+    color: #006a07; 
+}
+
+footer {
+    background-color: #039f00; 
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed; 
+    bottom: 0;
+    width: 100%; 
+}
+
+footer p {
+    margin: 0; 
+    font-size: 0.9em; 
+}
